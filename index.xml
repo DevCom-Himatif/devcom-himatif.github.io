@@ -6,10 +6,19 @@
     <description>Recent content on Devcom Himatif</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Dec 2018 06:01:28 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 04 Dec 2018 06:25:57 +0700</lastBuildDate>
     
 	<atom:link href="https://devcomhimatif.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Gdg Devfest</title>
+      <link>https://devcomhimatif.github.io/posts/2018/gdg-devfest/</link>
+      <pubDate>Tue, 04 Dec 2018 06:25:57 +0700</pubDate>
+      
+      <guid>https://devcomhimatif.github.io/posts/2018/gdg-devfest/</guid>
+      <description>Devcom goes to GDG DevFest chapter Bandung. </description>
+    </item>
     
     <item>
       <title>About</title>
